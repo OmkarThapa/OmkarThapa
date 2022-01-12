@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OmkarThapa
 - 👀 I’m interested in Digital Life.
 - 🌱 I’m currently learning Mathematics and Data Science.
-- 📫 Email me only if necessary : omkarthapa0002@gmail.com.
+- 📫
 - I will edit this intro. later.
 
 <!---
